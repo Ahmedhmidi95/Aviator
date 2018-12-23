@@ -1,0 +1,38 @@
+#search-bar{
+
+}
+#search-bar-container{
+  margin-top: -720px;
+  margin-bottom: 550px;
+}
+.card-header{
+  background-color: #2E2E2E;
+}
+.card{
+  border-style: none;
+  height: 300px;
+  align-content: center;
+}
+.popular-img{
+  position: relative;
+  margin: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 320px;
+  display: block;
+  z-index: 1;
+  width: 100%;
+  padding-right:0 !important;
+  padding-left:0 !important;
+
+}
+.popular-container{
+  position: relative;
+  margin-top: -100px;
+}
+.popular-desc{
+  margin-bottom: 80px;
+}
+
